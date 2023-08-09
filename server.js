@@ -10,7 +10,7 @@ const PORT = 5000;
 /**************************************************************************/
 //GET
 app.get("/", function (request, response) {
-    response.send("Hello World")
+    response.send("Hello World test")
 })
 
 //GET
